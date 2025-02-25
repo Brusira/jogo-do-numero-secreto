@@ -10,4 +10,4 @@ O projeto "Jogo do número secreto" é um jogo interativo onde o jogador deve ad
 - [ResponsiveVoice](https://responsivevoice.org/)
 
 ## Time
-Desenvolvido por mim e seguindo as orientações dos instrutores da Alura durante o curso "Git e GitHub (compartilhando e colaborando em projetos)".
+Desenvolvido por mim e seguindo as orientações dos instrutores da Alura [Gabrielle Ribeiro Gomes](https://github.com/Gabrielle-Ribeiro) e [Rodrigo da Silva Ferreira Caneppele](https://github.com/rcaneppele) durante o curso "Git e GitHub (compartilhando e colaborando em projetos)".
